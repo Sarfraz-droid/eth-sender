@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "daisyui": "^2.51.5",
+    "ethers": "5.7.2",
+    "react-icons": "^4.8.0"
+  }
+}
